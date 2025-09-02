@@ -1,2 +1,1 @@
-# github_py
-starting python from scratch
+Just some basic PY code
